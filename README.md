@@ -21,6 +21,8 @@
 
 Vue
 
+- [vue-composition-test-utils](https://github.com/ariesjia/vue-composition-test-utils)  Simple vue composition api unit test utilities for Vue 2 and 3 [![NPM](https://img.shields.io/npm/v/vue-composition-test-utils.svg)](https://www.npmjs.com/package/vue-composition-test-utils)
+
 - [vue-jsonld](https://github.com/ariesjia/vue-jsonld) Declarative JSON-LD Structured Data for Vue App . SSR supported [![NPM](https://img.shields.io/npm/v/vue-jsonld.svg)](https://www.npmjs.com/package/vue-jsonld)
 
 - [vuex-actions](https://github.com/ariesjia/vuex-actions) Utilities for vuex [![NPM](https://img.shields.io/npm/v/vuex-actions.svg)](https://www.npmjs.com/package/vuex-actions)
