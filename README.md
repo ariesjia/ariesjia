@@ -44,6 +44,6 @@ Other
 
 BlockChain
 
-- [sky-share](https://github.com/ariesjia/sky-share) Share encrypted file through skynetwork, Fork to own separate encryption and decryption secrets
+- [sky-share](https://github.com/ariesjia/sky-share) Share encrypted file through skynetwork, ability to own separate encryption and decryption secrets online
 
 - [eth-token](https://github.com/ariesjia/eth-token) Utilities for ETH Token and Uniswap
